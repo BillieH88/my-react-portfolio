@@ -1,0 +1,10 @@
+.contact{
+    top: 50px;
+    position: relative;
+    background-color: cadetblue;
+    padding: 8px;
+}
+
+.alert{
+    padding: 4px;
+}

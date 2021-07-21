@@ -1,0 +1,12 @@
+.app{
+    height :100vh;
+    background-color: gray;
+    
+}
+.sections{
+    width:100%;
+    background-color:rgb(108, 108, 219);
+    position: relative;
+    top:70px;
+    
+}
